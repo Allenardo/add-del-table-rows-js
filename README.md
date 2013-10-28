@@ -1,4 +1,4 @@
-add-del-table-rows-js
+HTMl/CSS/JS example 1 - Add and Delete table rows with pure JS
 =====================
 
 Basic example of HTML/CSS/JS - Add/del table rows with pure JS
