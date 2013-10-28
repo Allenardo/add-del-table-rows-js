@@ -136,7 +136,7 @@ th {
 .icon-remove {
   content: url('../img/remove-icon.png');
   background-repeat: no-repeat;
-  width: 18px;;
+  width: 15px;;
   height: auto;
   margin: 0;
   padding: 0;

@@ -19,12 +19,12 @@
         <td>10/31/2013</td>
         <td>Halloween</td>
         <td class="text-right">
-          <a href="#" id="remove-record-1" title="Remove holiday"><img class="icon-remove"></a>
+          <a href="#" id="remove-record-1" title="Remove record"><img class="icon-remove"></a>
         </td>
       </tr>
       <tr>
         <td colspan="3" class="text-right">
-          <a href="#" id="add-record" title="Add holiday"><img class="icon-add"></a>
+          <a href="#" id="add-record" title="Add record"><img class="icon-add"></a>
         </td>
       </tr>
     </tbody>
