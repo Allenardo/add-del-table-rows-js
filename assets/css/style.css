@@ -97,40 +97,9 @@ th {
   background-color: #f5f5f5;
 }
 
-.table > thead > tr > td.active,
-.table > tbody > tr > td.active,
-.table > tfoot > tr > td.active,
-.table > thead > tr > th.active,
-.table > tbody > tr > th.active,
-.table > tfoot > tr > th.active,
-.table > thead > tr.active > td,
-.table > tbody > tr.active > td,
-.table > tfoot > tr.active > td,
-.table > thead > tr.active > th,
-.table > tbody > tr.active > th,
-.table > tfoot > tr.active > th {
-  background-color: #f5f5f5;
-}
-
-.table-hover > tbody > tr > td.danger:hover,
-.table-hover > tbody > tr > th.danger:hover,
-.table-hover > tbody > tr.danger:hover > td {
-  background-color: #ebcccc;
-  border-color: #e6c1c7;
-}
-
 .btn {
   cursor: pointer;
   padding:5px;
-}
-
-.btn-default{
-  border: 1px solid #CCC;
-}
-
-.btn-default:hover{
-  background: #E2E2E2;
- 
 }
 
 .icon-remove {
@@ -149,11 +118,4 @@ th {
   height: auto;
   margin: 0;
   padding: 0;
-}
-
-.rounded-all {
-   -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    -khtml-border-radius: 5px;
-    border-radius: 5px;
 }
